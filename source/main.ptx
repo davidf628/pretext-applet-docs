@@ -8,6 +8,8 @@
     <title>My Great Book</title>
     <subtitle>An example to get you started</subtitle>
 
+    <p>This is a paragraph</p>
+
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
